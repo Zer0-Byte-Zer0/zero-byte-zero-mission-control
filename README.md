@@ -86,7 +86,7 @@ The selectors were separated into independent CSS rules and the page was reteste
 
 
 
-!\[Mission Control v0.1 Grid Layout](evidence/mission-control-v0.1-grid-layout.png)
+![Mission Control v0.1 Grid Layout](evidence/mission-control-v0.1-grid-layout.png)
 
 
 
