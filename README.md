@@ -108,3 +108,8 @@ The selectors were separated into independent CSS rules and the page was reteste
 
 \- Add dedicated views for labs, evidence, GitHub activity, logs, and deception systems
 
+## Featured Projects
+
+### [VLAN Segmentation, DNS, and ACL Management](projects/vlan-dns-acl-management/README.md)
+
+Built and secured a segmented Cisco Packet Tracer network using VLANs, router-on-a-stick, switch management, internal DNS, and an extended ACL. Diagnosed an overbroad deny rule and replaced it with a least-privilege control that blocked HTTP while preserving DNS, ICMP, and HTTPS connectivity.
