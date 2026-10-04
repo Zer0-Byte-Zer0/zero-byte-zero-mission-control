@@ -113,3 +113,7 @@ The selectors were separated into independent CSS rules and the page was reteste
 ### [VLAN Segmentation, DNS, and ACL Management](projects/vlan-dns-acl-management/README.md)
 
 Built and secured a segmented Cisco Packet Tracer network using VLANs, router-on-a-stick, switch management, internal DNS, and an extended ACL. Diagnosed an overbroad deny rule and replaced it with a least-privilege control that blocked HTTP while preserving DNS, ICMP, and HTTPS connectivity.
+
+### [Wireless Router Hardening & Guest Network Isolation](projects/wireless-router-hardening/README.md)
+
+Hardened a simulated wireless network in Cisco Packet Tracer using WPA2/AES, trusted and guest wireless segmentation, secure IoT connectivity, and router administration controls. Validated external connectivity and guest isolation with before-and-after testing, then investigated a 37/38 assessment result, identified remote management as the remaining exposure, remediated it, and verified full 38/38 completion.
